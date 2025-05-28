@@ -6,8 +6,7 @@
 # CH02 [예측 AI 분류 (Attack Classifcation)](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/ch02.md )
 
 # CH03 [생성 AI	분류 (Generative Taxonomy)](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/ch03.md)
-<<<<<<< HEAD
 
-# CH04 [주요 도전 과제 및 논의(Key Challenges and Discussion)]
-=======
->>>>>>> a5f34f2 (ch04.md)
+
+# CH04 [주요 도전 과제 및 논의(Key Challenges and Discussion)](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/ch04.md)
+
