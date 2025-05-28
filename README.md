@@ -4,4 +4,4 @@
 
 # CH02 [예측 AI 분류 (Attack Classifcation)](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/ch02.md )
 
-# CH03 [생성 AI	분류 (Generative Taxonomy)] (https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/ch03.md)
+# CH03 [생성 AI	분류 (Generative Taxonomy)](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/ch03.md)
