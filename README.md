@@ -29,4 +29,4 @@
 ## CH06. FUTURE RESEARCH DIRECTIONS
 ### [정리본](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/MCP06.md)
 ## CH07. CONCLUSION
-### [정리본](https://github.com/presyeont/Adversarial_Machine_Learning/blob/main/MCP07.md)
+
